@@ -1,0 +1,13 @@
+name = "Streamotes: Streamer Emotes"
+filename = "streamotes-FABRIC-1.2.15+26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee30daa685c1fa087c87c61059ec63ce0736baf2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8331872
+project-id = 1250607

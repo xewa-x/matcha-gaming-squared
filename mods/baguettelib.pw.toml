@@ -1,0 +1,13 @@
+name = "BaguetteLib"
+filename = "baguettelib-26.2-Fabric-2.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f41cfe6d69bbc7fe436d039dbb7eb0457b5acb04"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8887470
+project-id = 1264423

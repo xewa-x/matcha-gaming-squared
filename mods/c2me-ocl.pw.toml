@@ -1,0 +1,13 @@
+name = "C2ME OpenCL Acceleration Module"
+filename = "c2me-fabric-opts-accel-opencl-mc26.2-0.4.2-alpha.0.52.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9487e5ef9f0da939558053d6415c33e2e59bc194"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8866589
+project-id = 1563823

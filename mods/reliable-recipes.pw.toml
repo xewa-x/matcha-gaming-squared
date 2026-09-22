@@ -1,0 +1,13 @@
+name = "Reliable Recipes"
+filename = "reliable_recipes-fabric-26.2-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0a7d20af694c02442fbd5e1a50b626d9e46d0a16"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8385817
+project-id = 1414959

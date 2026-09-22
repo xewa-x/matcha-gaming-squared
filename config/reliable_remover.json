@@ -1,0 +1,24 @@
+{
+  "showAttackMessage": true,
+  "showHandSwingMessage": true,
+  "showRemovalMessage": false,
+  "removeItemsFromCreativeTabs": true,
+  "removeItemsFromRrv": true,
+  "removeItemsFromInventories": true,
+  "removeItemsOnInventoryOpen": true,
+  "removeDroppedItems": true,
+  "removeItemsFromLootChests": true,
+  "removeItemsFromStorage": true,
+  "removeItemsFromInfoTabs": true,
+  "removeItemsFromTrades": true,
+  "removeRecipes": true,
+  "removeMobEquipment": true,
+  "enableRrvRemoval": false,
+  "showRrvToast": true,
+  "showRrvChatMessages": true,
+  "reloadAfterRemoval": false,
+  "blacklistedItems": [
+    "minecraft:experience_bottle",
+    "minecraft:enchanting_table"
+  ]
+}

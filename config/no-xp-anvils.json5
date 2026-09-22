@@ -1,0 +1,7 @@
+{
+	rename: true,
+	repair: true,
+	enchant: true,
+	combineGear: true,
+	combineBooks: true
+}

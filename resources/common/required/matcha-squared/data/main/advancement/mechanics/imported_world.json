@@ -1,0 +1,17 @@
+{
+	"parent": "minecraft:mechanics/root",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	},
+	"requirements": [
+		[
+			"tick"
+		]
+	],
+	"rewards": {
+		"recipes": [],
+		"function": "main:mechanic/imported_world"
+	}
+}

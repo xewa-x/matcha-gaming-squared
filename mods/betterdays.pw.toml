@@ -1,0 +1,13 @@
+name = "Better Days"
+filename = "betterdays-26.2-fabric-4.1.1.7-FABRIC.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fdf740bc0ef922da8d62b97b6e3f7de92d73e08a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8330049
+project-id = 895618

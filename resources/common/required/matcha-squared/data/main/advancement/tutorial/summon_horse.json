@@ -1,0 +1,29 @@
+{
+  "parent": "main:tutorial/obtain_copper",
+  "criteria": {
+    "summon_horse": {
+      "conditions": {},
+      "trigger": "horseman:horse_summoned"
+    }
+  },
+  "display": {
+    "frame": "task",
+    "hidden": false,
+    "show_toast": true,
+    "announce_to_chat": true,
+    "icon": {
+      "id": "horseman:copper_horn"
+    },
+    "title": {
+      "translate": "advancement.horseman.summon_horse.title"
+    },
+    "description": {
+      "translate": "advancement.horseman.summon_horse.description"
+    }
+  },
+  "requirements": [
+    [
+      "summon_horse"
+    ]
+  ]
+}

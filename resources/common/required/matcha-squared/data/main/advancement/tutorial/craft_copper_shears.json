@@ -1,0 +1,41 @@
+{
+  "parent": "main:tutorial/obtain_copper",
+  "criteria": {
+    "get_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "components": {
+              "minecraft:item_model": "minecraft:copper_shears"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "frame": "task",
+    "hidden": false,
+    "show_toast": true,
+    "announce_to_chat": true,
+    "icon": {
+      "components": {
+        "minecraft:item_model": "minecraft:copper_shears"
+      },
+      "count": 1,
+      "id": "minecraft:shears"
+    },
+    "title": {
+      "text": "Snip snip!"
+    },
+    "description": {
+      "text": "Obtain Copper Shears, which can be used to get wool and saplings."
+    }
+  },
+  "requirements": [
+    [
+      "get_item"
+    ]
+  ]
+}

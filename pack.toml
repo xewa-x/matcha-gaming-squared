@@ -1,0 +1,13 @@
+name = "Matcha Gaming Squared"
+author = "wong"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "27d79738c1629680ab1d9f0546461aa892f29ea0eb30c55c5a06b57200099f22"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.2"

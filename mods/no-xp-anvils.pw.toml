@@ -1,0 +1,13 @@
+name = "No XP Anvils"
+filename = "no-xp-anvils-1.2.2-fabric-26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "60070918a3ade6d05f126749c4c3eb2c7c0e778a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8350805
+project-id = 965762

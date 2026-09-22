@@ -1,0 +1,13 @@
+name = "Player Animation Library"
+filename = "PlayerAnimationLibMerged-1.2.6+mc.26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "55d06e255b162cb648671bbe0cb4dd0961188269"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8674798
+project-id = 1283899

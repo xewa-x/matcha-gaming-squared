@@ -1,0 +1,13 @@
+name = "World Play Time Reborn"
+filename = "worldplaytimereborn-1.2.6+26.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b75cb991c8d9ec27cd4ac5cae813cce081e30a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8794798
+project-id = 1608713

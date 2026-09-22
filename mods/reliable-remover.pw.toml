@@ -1,0 +1,13 @@
+name = "Reliable Remover"
+filename = "reliable_remover-fabric-26.2-3.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4949c12f66db4a0f5a563b4816bb8c233f7227b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8831991
+project-id = 1420447

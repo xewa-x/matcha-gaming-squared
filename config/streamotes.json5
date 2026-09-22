@@ -1,0 +1,14 @@
+{
+	emoteChannels: [],
+	twitchGlobalEmotes: true,
+	twitchSubscriberEmotes: true,
+	bttvEmotes: true,
+	bttvChannelEmotes: true,
+	ffzEmotes: true,
+	ffzChannelEmotes: true,
+	x7tvEmotes: true,
+	x7tvChannelEmotes: true,
+	colorEmotes: true,
+	activationMode: "Required",
+	errorReporting: "Toast"
+}

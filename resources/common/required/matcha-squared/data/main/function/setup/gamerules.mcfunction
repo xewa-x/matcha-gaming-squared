@@ -1,0 +1,6 @@
+gamerule natural_health_regeneration false
+gamerule spawn_phantoms false
+gamerule keep_inventory true
+gamerule block_explosion_drop_decay false
+gamerule mob_explosion_drop_decay false
+gamerule ender_pearls_vanish_on_death false

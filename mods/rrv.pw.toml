@@ -1,0 +1,13 @@
+name = "Reliable Recipe Viewer (RRV)"
+filename = "reliable-recipe-viewer-8.10.5+26.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3682603d9a4cfc18990a0a4bf3a33916952ede72"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8890162
+project-id = 1422317

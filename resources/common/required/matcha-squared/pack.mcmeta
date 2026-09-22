@@ -1,0 +1,59 @@
+{
+	"pack": {
+		"min_format": 88,
+		"max_format": 107.1,
+		"description": [
+			{
+				"text": "Matcha^2",
+				"color": "#56be4e"
+			},
+			{
+				"text": "\n"
+			},
+			{
+				"text": "1.0.0 for 26.2",
+				"color": "#908b8b"
+			}
+		]
+	},
+	"filter": {
+		"block": [
+			{
+				"namespace": "horseman",
+				"path": "advancement/husbandry"
+			},
+			{
+				"namespace": "main",
+				"path": "function/setup/gamerules.mcfunction"
+			},
+			{
+				"namespace": "main",
+				"path": "function/environmental/day_cycle_extender.mcfunction"
+			},
+			{
+				"namespace": "main",
+				"path": "function/environmental/load_day_cycle_extender.mcfunction"
+			},
+			{
+				"namespace": "main",
+				"path": "function/mechanic/check_anvil_interaction.mcfunction"
+			},
+			{
+				"namespace": "main",
+				"path": "function/mechanic/check_anvil_interaction_delayed.mcfunction"
+			},
+			{
+				"namespace": "main",
+				"path": "function/mechanic/set_xp.mcfunction"
+			},
+			{
+				"namespace": "endless_repairs",
+				"path": "function/reset_breakable_repair_cost.mcfunction"
+			},
+			{
+				"namespace": "endless_repairs",
+				"path": "advancement/inventory_changed.mcfunction"
+			}
+		]
+	}
+}

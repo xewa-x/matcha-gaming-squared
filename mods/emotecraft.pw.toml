@@ -1,13 +1,13 @@
-name = "Emotecraft (Fabric)"
+name = "Emotecraft"
 filename = "emotecraft-for-MC26.2-3.4.0-b.build.166.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "60cf984483ae930bde1e4f4d4c7e27afc1dbc2ba"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/wbOdORs5/emotecraft-for-MC26.2-3.4.0-b.build.166.jar"
+hash-format = "sha512"
+hash = "b7315ed0026e13901d02f568f9b62707c4bf504b5ade18eb759ca20750c081985f821953e21a68b8d49b0132d49e85d410afb0d08644cadea31b7817e3c24107"
 
 [update]
-[update.curseforge]
-file-id = 8866188
-project-id = 397809
+[update.modrinth]
+mod-id = "pZ2wrerK"
+version = "wbOdORs5"

@@ -421,6 +421,11 @@ file = "icon.png"
 hash = "3ca0ed0acb6359c92a77e5245bd958acb797b95ea01ac943f7efd91fbfe052e7"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "d51e28413e05c52dd0fe42da5c3f5beccbd488fa30c214446e63f5d7deddb316"
+metafile = true
+
+[[files]]
 file = "mods/Voxy World Gen V2-fabric-26.2-2.4.3.jar"
 hash = "b6ef773fb90af6394d332e6a40b91854dedddbcf0bf3e15d6f357bdac690b1ab"
 
@@ -491,12 +496,12 @@ metafile = true
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
-hash = "28b5b48d0a7693d3c6d00e3a0076354c63c6481274d583dbddf4c3db3560a07c"
+hash = "f349dc78b4e30597bd1227acb2675f2857ffe0ca1c52a68b9c1310a78a97f519"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "4689a2e8b9ffac16fbe70bcca43bdd53dc493b88046fcff636561f7d1c96b880"
+hash = "9ccaa582844d45222581b90ca5ce61acf117408c635b904673e1c4d89969f40b"
 metafile = true
 
 [[files]]
@@ -516,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastback.pw.toml"
-hash = "e4605ee4ff5768d9edc24b63f6dc711a9f65225be18115524c9a83e3a2c1955e"
+hash = "d33ba5005932f7f59f4a6161aca63ce4a35665ab43e1b5e4e432fdb24509ea5c"
 metafile = true
 
 [[files]]
@@ -611,7 +616,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-animation-library.pw.toml"
-hash = "9c15b659f5e8adc895f11438a64b58bac81d161ce01811e50abfd40fcaf5707d"
+hash = "c0cda45c0b9cbc05935f935ab57268a12819e8cf85f1aef7e717b858e3f55bd2"
 metafile = true
 
 [[files]]
@@ -656,11 +661,6 @@ metafile = true
 [[files]]
 file = "mods/sit-fabric.pw.toml"
 hash = "81ddf98b2e3e5dc391fe2b05ac7c6881cbcb0ddc881a3602e62a6bbee88cc947"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "02d89e1588c5670d69d4b05f96f5543bd8fdc4c69f70aee23a6f4a344d1667bb"
 metafile = true
 
 [[files]]

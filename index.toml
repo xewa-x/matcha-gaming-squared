@@ -430,6 +430,11 @@ file = "mods/Voxy World Gen V2-fabric-26.2-2.4.3.jar"
 hash = "b6ef773fb90af6394d332e6a40b91854dedddbcf0bf3e15d6f357bdac690b1ab"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "85581651073884ebb1f7f3c53e044f4befe7b84425ae67b4781b6e9c15fbb952"
+metafile = true
+
+[[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "2bd1bbb908a92c65ece5c45df88dc43e4ab9844e273747c735569654dab0d1a0"
 metafile = true

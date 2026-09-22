@@ -10,5 +10,5 @@
 	x7tvChannelEmotes: true,
 	colorEmotes: true,
 	activationMode: "Required",
-	errorReporting: "Toast"
+	errorReporting: "Chat"
 }

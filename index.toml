@@ -314,7 +314,7 @@ hash = "c935da9ceda37d4fb600cf408dd61614c24d97cb9a5163ed5afc9b74174ba0dd"
 
 [[files]]
 file = "config/streamotes.json5"
-hash = "7787d755cebd2c2b7893167efdd3f552c92fb7982ea131bb55f82deb62c85cdc"
+hash = "95dacb9d7f36aa8e838e3ddeb95d2037591d12aa9401197a0c8fcfd41a38fc85"
 
 [[files]]
 file = "config/transition.json"

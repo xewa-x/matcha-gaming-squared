@@ -541,6 +541,11 @@ hash = "2afce9c77711cb5a56bdce03e8d3ea429c13fed44538f92d4efd73130071470f"
 metafile = true
 
 [[files]]
+file = "mods/ji-afk-cinematic.pw.toml"
+hash = "c4c3fdaeac39a5f830236b97f1813581e92feb8f59257a6e3ec052ddb9e0f619"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "69f37745c8adc78ee14b4081354453fe3ffb1fa9c7ef763f898d1c6b7c869bf0"
 metafile = true

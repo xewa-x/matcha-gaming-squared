@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "1cd3bfe21875771af8a46c62687155d8a609c4c0cf0a9bbece150d375b922eb9"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "26fac3bc5aa3c2d17491a4dc64e6749d7c7b1f54e0352f23cca9f14aee6867de"
 
@@ -19,22 +23,6 @@ hash = "f0decb31d974351dd9337caf02320d22470adec6b96411bb84596cdc73d77dac"
 [[files]]
 file = "config/betteradvancements.json"
 hash = "3f5b0770f3389c5ee483e23b73dd9272aee16fa0540c1dcc31023201c8cd7b18"
-
-[[files]]
-file = "config/bettercombat/client.json5"
-hash = "a54af69bb24a459dc7cf26ed04f4ac0085a14b2c0a70b175ddd1a7215f82be5f"
-
-[[files]]
-file = "config/bettercombat/fallback_compatibility.json"
-hash = "d15457706f44574cb44fc87a3bb6ce83386348abe877b1250ec4a490b9750f42"
-
-[[files]]
-file = "config/bettercombat/server.json5"
-hash = "d5bf55793dc804d48adb080d7432356d5d7ca7d7cbd8bed02b8c2a7ddf2148fd"
-
-[[files]]
-file = "config/bettercombat/weapon_trails.json"
-hash = "e1d4c2edc3bdfcbeddce25ef5362198a65be61fe9aa7e0a486fc26705939d150"
 
 [[files]]
 file = "config/betterdays-client.toml"
